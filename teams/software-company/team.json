@@ -1,0 +1,35 @@
+{
+  "displayName": "软件开发团队",
+  "members": [
+    {
+      "name": "software-team-lead",
+      "role": "lead",
+      "displayName": "齐活林"
+    },
+    {
+      "name": "software-architect",
+      "role": "member",
+      "displayName": "高见远"
+    },
+    {
+      "name": "software-engineer",
+      "role": "member",
+      "displayName": "寇豆码"
+    },
+    {
+      "name": "software-product-manager",
+      "role": "member",
+      "displayName": "许清楚"
+    },
+    {
+      "name": "software-qa-engineer",
+      "role": "member",
+      "displayName": "严过关"
+    }
+  ],
+  "category": "技术工程",
+  "scenario": "技术工程",
+  "description": "Software Development Team - Optimized multi-agent SOP workflow for fast software delivery",
+  "featured": true,
+  "order": 200
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "name": "ai-engineer",
+    "displayName": "深网网",
+    "category": "数据智能",
+    "scenario": "数据智能",
+    "featured": true,
+    "order": 20,
+    "tags": [
+      "AI工程",
+      "模型部署",
+      "ML流水线"
+    ],
+    "skills": [
+      "agent-browser-core",
+      "agent-team-orchestration",
+      "deep-research",
+      "fullstack-dev"
+    ]
+  },
+  {
+    "name": "aihot",
+    "displayName": "数字生命卡兹克",
+    "category": "数据智能",
+    "scenario": "数据智能",
+    "featured": true,
+    "order": 30,
+    "tags": [
+      "AI 资讯",
+      "每日简报",
+      "AI 行业动态"
+    ],
+    "skills": [
+      "aihot"
+    ]
+  },
+  {
+    "name": "chuangye-manor",
+    "displayName": "林正刚",
+    "category": "行业顾问",
+    "scenario": "行业顾问",
+    "featured": true,
+    "order": 40,
+    "tags": [
+      "创业教练",
+      "GTM策略",
+      "OPC一人公司"
+    ],
+    "skills": [
+      "knowledge-business",
+      "knowledge-growth",
+      "knowledge-gtm",
+      "knowledge-org",
+      "knowledge-sequence",
+      "manor-host",
+      "manor-judge"
+    ]
+  },
+  {
+    "name": "content-creator",
+    "displayName": "文爆爆",
+    "category": "内容创作",
+    "scenario": "内容创作",
+    "featured": true,
+    "order": 60,
+    "tags": [
+      "内容策略",
+      "多平台创作",
+      "品牌叙事"
+    ],
+    "skills": [
+      "anti-distill",
+      "humanizer",
+      "minimax-docx",
+      "novel-writer",
+      "novel-writing"
+    ]
+  },
+  {
+    "name": "data-analytics-reporter",
+    "displayName": "数妙妙",
+    "category": "数据智能",
+    "scenario": "数据智能",
+    "featured": true,
+    "order": 70,
+    "tags": [
+      "数据分析",
+      "指标诊断",
+      "KPI报告"
+    ],
+    "skills": [
+      "analytics-reporting",
+      "data-quality-assessment",
+      "data-visualization",
+      "kpi-design",
+      "metric-diagnostics"
+    ]
+  },
+  {
+    "name": "equity-research",
+    "displayName": "研股股",
+    "category": "金融投资",
+    "scenario": "金融投资",
+    "featured": true,
+    "order": 80,
+    "skills": [
+      "catalyst-calendar",
+      "company-tearsheet",
+      "comps-valuation",
+      "dcf-model-builder",
+      "earnings-analysis",
+      "earnings-preview",
+      "event-scenario-analyzer",
+      "idea-generation",
+      "initiating-coverage",
+      "long-short-pitch",
+      "memo-builder",
+      "model-update",
+      "morning-note",
+      "portfolio-risk",
+      "sector-overview",
+      "thesis-tracker"
+    ]
+  },
+  {
+    "name": "fbsir-board-secretary-assistant",
+    "displayName": "福帮手",
+    "category": "行业顾问",
+    "scenario": "行业顾问",
+    "featured": true,
+    "order": 90,
+    "tags": [
+      "信息披露合规",
+      "投资者关系",
+      "合规红队"
+    ],
+    "skills": [
+      "board-secretary-compliance-red-team"
+    ]
+  },
+  {
+    "name": "fbsir-industry-scene-researcher",
+    "displayName": "福帮手",
+    "category": "行业顾问",
+    "scenario": "行业顾问",
+    "featured": true,
+    "order": 100,
+    "tags": [
+      "行业调研",
+      "流程补位",
+      "行动包"
+    ],
+    "skills": [
+      "industry-scene-service-recording"
+    ]
+  },
+  {
+    "name": "frontend-developer",
+    "displayName": "像素匠",
+    "category": "技术工程",
+    "scenario": "技术工程",
+    "featured": true,
+    "order": 120,
+    "tags": [
+      "前端开发",
+      "页面交互",
+      "组件开发"
+    ],
+    "skills": [
+      "brand-guidelines",
+      "browser-use",
+      "frontend-dev",
+      "fullstack-dev",
+      "github",
+      "impeccable"
+    ]
+  },
+  {
+    "name": "game-designer",
+    "displayName": "玩法师",
+    "category": "游戏空间",
+    "scenario": "游戏空间",
+    "featured": true,
+    "order": 130,
+    "tags": [
+      "游戏设计",
+      "玩法策划",
+      "游戏系统"
+    ],
+    "skills": [
+      "android-native-dev",
+      "anti-distill",
+      "impeccable",
+      "wechat-miniprogram"
+    ]
+  },
+  {
+    "name": "gaokao-advisor",
+    "displayName": "专业高考顾问",
+    "category": "行业顾问",
+    "scenario": "行业顾问",
+    "featured": true,
+    "order": 140,
+    "tags": [
+      "高考真题",
+      "一分一段",
+      "志愿填报"
+    ],
+    "skills": [
+      "gaokao-search",
+      "gaokao-zhiyuan-assistant",
+      "tencent-yuanbao-gaokao-regional-passing-scores",
+      "tencent-yuanbao-gaokao-score-to-rank-lookup"
+    ]
+  },
+  {
+    "name": "sales-coach",
+    "displayName": "单必成",
+    "category": "销售商务",
+    "scenario": "销售商务",
+    "featured": true,
+    "order": 180,
+    "tags": [
+      "销售教练",
+      "交易策略",
+      "竞品分析"
+    ],
+    "skills": [
+      "anti-distill",
+      "business-case",
+      "call-debrief",
+      "competitive-brief",
+      "deal-strategy",
+      "prepare-meeting"
+    ]
+  },
+  {
+    "name": "senior-developer",
+    "displayName": "吴八哥",
+    "category": "技术工程",
+    "scenario": "技术工程",
+    "featured": true,
+    "order": 190,
+    "tags": [
+      "高级开发",
+      "架构设计",
+      "代码质量"
+    ],
+    "skills": [
+      "browser-use",
+      "capability-evolver",
+      "frontend-dev",
+      "fullstack-dev"
+    ]
+  },
+  {
+    "name": "ui-designer",
+    "displayName": "像素君",
+    "category": "产品设计",
+    "scenario": "产品设计",
+    "featured": true,
+    "order": 230,
+    "tags": [
+      "UI设计",
+      "组件库",
+      "界面规范"
+    ],
+    "skills": [
+      "browser-use",
+      "frontend-dev",
+      "impeccable"
+    ]
+  },
+  {
+    "name": "we-chat-mini-program-developer",
+    "displayName": "小程达",
+    "category": "技术工程",
+    "scenario": "技术工程",
+    "featured": true,
+    "order": 240,
+    "tags": [
+      "小程序开发",
+      "微信生态",
+      "WXML开发"
+    ],
+    "skills": [
+      "brand-guidelines",
+      "fullstack-dev",
+      "impeccable",
+      "skyline",
+      "tdesign-miniprogram",
+      "wechat-miniprogram"
+    ]
+  },
+  {
+    "name": "xiaohongshu-operations-expert",
+    "displayName": "种草草",
+    "category": "内容创作",
+    "scenario": "内容创作",
+    "featured": true,
+    "order": 250,
+    "tags": [
+      "小红书运营",
+      "种草营销",
+      "笔记创作"
+    ],
+    "skills": [
+      "anti-distill",
+      "humanizer",
+      "marketing-skills",
+      "xiaohongshu"
+    ]
+  }
+]

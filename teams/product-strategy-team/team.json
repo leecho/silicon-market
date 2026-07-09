@@ -1,0 +1,40 @@
+{
+  "displayName": "产品战略团队",
+  "members": [
+    {
+      "name": "product-director",
+      "role": "lead",
+      "displayName": "方向明"
+    },
+    {
+      "name": "competitive-analyst",
+      "role": "member",
+      "displayName": "竞析"
+    },
+    {
+      "name": "data-analyst",
+      "role": "member",
+      "displayName": "数析"
+    },
+    {
+      "name": "requirement-analyst",
+      "role": "member",
+      "displayName": "析客"
+    },
+    {
+      "name": "roadmap-planner",
+      "role": "member",
+      "displayName": "路径"
+    },
+    {
+      "name": "user-researcher",
+      "role": "member",
+      "displayName": "瑞思"
+    }
+  ],
+  "category": "产品设计",
+  "scenario": "产品设计",
+  "description": "由产品总监领导的 5 人产品专家团队：需求分析师（PRD/功能规格书）、用户研究员（调研综合分析）、竞品分析师（竞争情报）、数据分析师（指标追踪）和路线图规划师（路线图管理/迭代规划）。覆盖从构思到上线的完整产品生命周期。",
+  "featured": true,
+  "order": 170
+}
