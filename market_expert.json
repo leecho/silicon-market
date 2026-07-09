@@ -4,6 +4,9 @@
     "displayName": "深网网",
     "category": "数据智能",
     "scenario": "数据智能",
+    "description": "精通ML模型开发部署优化的全栈AI工程师，将AI从论文带到生产环境",
+    "profession": "AI工程师",
+    "avatar": "🤖",
     "featured": true,
     "order": 20,
     "tags": [
@@ -23,6 +26,8 @@
     "displayName": "数字生命卡兹克",
     "category": "数据智能",
     "scenario": "数据智能",
+    "description": "一句话查到每天精选的 AI 模型/产品/行业/论文动态，自动整理成中文简报，免配置免登录。",
+    "profession": "资讯速递专家",
     "featured": true,
     "order": 30,
     "tags": [
@@ -39,6 +44,8 @@
     "displayName": "林正刚",
     "category": "行业顾问",
     "scenario": "行业顾问",
+    "description": "创业庄园的24小时灯塔，基于林正刚老师50年企业管理经验框架，帮助OPC创业者把选择做对、顺序做对、行为做对。擅长GTM策略、客户定位、销售阶段管理。",
+    "profession": "创业教练",
     "featured": true,
     "order": 40,
     "tags": [
@@ -61,6 +68,9 @@
     "displayName": "文爆爆",
     "category": "内容创作",
     "scenario": "内容创作",
+    "description": "擅长创作引人入胜的多平台内容，让品牌故事触达目标受众",
+    "profession": "内容创作专家",
+    "avatar": "✍️",
     "featured": true,
     "order": 60,
     "tags": [
@@ -81,6 +91,8 @@
     "displayName": "数妙妙",
     "category": "数据智能",
     "scenario": "数据智能",
+    "description": "将复杂数据转化为战略洞察，提供指标诊断、KPI框架设计、数据质量评估与决策报告",
+    "profession": "数据分析报告师",
     "featured": true,
     "order": 70,
     "tags": [
@@ -101,6 +113,8 @@
     "displayName": "研股股",
     "category": "金融投资",
     "scenario": "金融投资",
+    "description": "Comprehensive equity research toolkit: earnings analysis, initiating coverage, DCF/comps valuation, long-short pitches, investment memos, event-driven analysis, portfolio risk management, and full research workflows",
+    "profession": "股票研究专家",
     "featured": true,
     "order": 80,
     "skills": [
@@ -127,6 +141,8 @@
     "displayName": "福帮手",
     "category": "行业顾问",
     "scenario": "行业顾问",
+    "description": "面向公告、路演、投资者问答、互动回复和沟通稿，在对外使用前做合规红队审查并给出审批下一步。",
+    "profession": "董秘助手",
     "featured": true,
     "order": 90,
     "tags": [
@@ -143,6 +159,8 @@
     "displayName": "福帮手",
     "category": "行业顾问",
     "scenario": "行业顾问",
+    "description": "围绕一个行业场景定位关键工作流缺口，并交付补位卡、3天行动计划、项目动作执行包和下一步建议。",
+    "profession": "行业场景研究员",
     "featured": true,
     "order": 100,
     "tags": [
@@ -159,6 +177,9 @@
     "displayName": "像素匠",
     "category": "技术工程",
     "scenario": "技术工程",
+    "description": "精通现代Web技术和主流框架，以像素级精度构建响应式高性能Web应用",
+    "profession": "前端开发工程师",
+    "avatar": "🖥️",
     "featured": true,
     "order": 120,
     "tags": [
@@ -180,6 +201,9 @@
     "displayName": "玩法师",
     "category": "游戏空间",
     "scenario": "游戏空间",
+    "description": "精通游戏系统和机制设计，用循环杠杆和心理构建玩法",
+    "profession": "游戏设计师",
+    "avatar": "🎮",
     "featured": true,
     "order": 130,
     "tags": [
@@ -199,6 +223,8 @@
     "displayName": "专业高考顾问",
     "category": "行业顾问",
     "scenario": "行业顾问",
+    "description": "辅助检索高考真题、高考作文、全国高校与专业信息，并调用批次线、一分一段能力；同时提供全流程志愿填报引导，产出可转发的腾讯文档志愿报告",
+    "profession": "高考我帮你",
     "featured": true,
     "order": 140,
     "tags": [
@@ -218,6 +244,9 @@
     "displayName": "单必成",
     "category": "销售商务",
     "scenario": "销售商务",
+    "description": "全栈销售教练：从能力培养到实战执行——会议准备、交易策略、商业案例、竞品分析、通话复盘，用苏格拉底式提问驱动",
+    "profession": "销售教练",
+    "avatar": "🏋️",
     "featured": true,
     "order": 180,
     "tags": [
@@ -239,6 +268,9 @@
     "displayName": "吴八哥",
     "category": "技术工程",
     "scenario": "技术工程",
+    "description": "10年以上全栈经验，精通多种语言和框架，是团队的技术中坚",
+    "profession": "高级开发工程师",
+    "avatar": "💎",
     "featured": true,
     "order": 190,
     "tags": [
@@ -258,6 +290,9 @@
     "displayName": "像素君",
     "category": "产品设计",
     "scenario": "产品设计",
+    "description": "精通设计系统和组件库，追求像素级完美，打造无障碍用户界面",
+    "profession": "UI设计师",
+    "avatar": "🎨",
     "featured": true,
     "order": 230,
     "tags": [
@@ -276,6 +311,9 @@
     "displayName": "小程达",
     "category": "技术工程",
     "scenario": "技术工程",
+    "description": "精通微信小程序开发框架和生态，打造流畅微信原生体验应用",
+    "profession": "微信小程序开发者",
+    "avatar": "💬",
     "featured": true,
     "order": 240,
     "tags": [
@@ -297,6 +335,9 @@
     "displayName": "种草草",
     "category": "内容创作",
     "scenario": "内容创作",
+    "description": "深谙小红书种草生态和推荐机制，打造高互动率种草内容",
+    "profession": "小红书运营专家",
+    "avatar": "🌸",
     "featured": true,
     "order": 250,
     "tags": [
