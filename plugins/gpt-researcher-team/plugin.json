@@ -1,0 +1,68 @@
+{
+  "name": "gpt-researcher-team",
+  "displayName": "深度研究团队",
+  "description": "7 位专业角色分 5 阶段协作完成深度研究：初始调研 → 规划大纲 → 逐章深度研究（审稿修订循环）→ 撰写报告框架 → 发布输出。支持完整 / 快速 / 单章三种模式。适用于行业研究、竞品分析、技术综述、学术文献综述等场景，产出带多源超链接引用的专业研究报告。",
+  "version": "1.0.0",
+  "teamInfo": {
+    "leadAgent": "research-chief-editor",
+    "memberAgents": [
+      "draft-reviewer",
+      "draft-reviser",
+      "report-publisher",
+      "report-writer",
+      "research-planner",
+      "topic-researcher"
+    ]
+  },
+  "members": [
+    {
+      "id": "research-chief-editor",
+      "name": "顾全之",
+      "role": "lead"
+    },
+    {
+      "id": "draft-reviewer",
+      "name": "明鉴秋",
+      "role": "member"
+    },
+    {
+      "id": "draft-reviser",
+      "name": "任润泽",
+      "role": "member"
+    },
+    {
+      "id": "report-publisher",
+      "name": "傅梓铭",
+      "role": "member"
+    },
+    {
+      "id": "report-writer",
+      "name": "程文成",
+      "role": "member"
+    },
+    {
+      "id": "research-planner",
+      "name": "季要纲",
+      "role": "member"
+    },
+    {
+      "id": "topic-researcher",
+      "name": "谭溯源",
+      "role": "member"
+    }
+  ],
+  "agents": [
+    "agents/draft-reviewer.md",
+    "agents/draft-reviser.md",
+    "agents/report-publisher.md",
+    "agents/report-writer.md",
+    "agents/research-chief-editor.md",
+    "agents/research-planner.md",
+    "agents/topic-researcher.md"
+  ],
+  "quickPrompts": [
+    "帮我深度调研下AI Agent在企业级应用中的发展趋势",
+    "快速研究2025年大语言模型的最新进展",
+    "帮我写一份主流云计算平台的竞品分析报告"
+  ]
+}

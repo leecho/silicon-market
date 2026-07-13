@@ -1,0 +1,12 @@
+{
+  "files": [
+    "agents/fbsir-super-partner-lead.md",
+    "agents/growth-partner-laosha.md",
+    "agents/ops-partner-laozhu.md",
+    "agents/product-partner-xiaobai.md",
+    "agents/strategy-partner-laosun.md",
+    "plugin.json",
+    "skills/super-partner-core/SKILL.md",
+    "skills/super-partner-core/super-partner-runtime-hints.json"
+  ]
+}

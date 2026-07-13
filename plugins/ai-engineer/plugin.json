@@ -1,0 +1,15 @@
+{
+  "name": "ai-engineer",
+  "displayName": "深网网",
+  "description": "精通ML模型开发部署优化的全栈AI工程师，将AI从论文带到生产环境",
+  "version": "1.0.0",
+  "agents": [
+    "agents/ai-engineer.md"
+  ],
+  "skills": [
+    "skills/agent-browser-core",
+    "skills/agent-team-orchestration",
+    "skills/deep-research",
+    "skills/fullstack-dev"
+  ]
+}

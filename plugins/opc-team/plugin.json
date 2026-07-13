@@ -1,0 +1,93 @@
+{
+  "name": "opc-team",
+  "displayName": "一人公司专家团",
+  "description": "基于由Easy创作的《一人企业方法论》，9位专家陪你走完从资源盘点、利基定位到MVP、转化、复盘的一人公司全流程共创",
+  "version": "1.0.0",
+  "teamInfo": {
+    "leadAgent": "opc-team-lead",
+    "memberAgents": [
+      "opc-asset-strategist",
+      "opc-conversion-designer",
+      "opc-dashboard-reviewer",
+      "opc-model-architect",
+      "opc-mvp-designer",
+      "opc-niche-strategist",
+      "opc-resource-auditor",
+      "opc-value-designer"
+    ]
+  },
+  "members": [
+    {
+      "id": "opc-team-lead",
+      "name": "易牧",
+      "role": "lead"
+    },
+    {
+      "id": "opc-asset-strategist",
+      "name": "沉墨",
+      "role": "member"
+    },
+    {
+      "id": "opc-conversion-designer",
+      "name": "闭环",
+      "role": "member"
+    },
+    {
+      "id": "opc-dashboard-reviewer",
+      "name": "复明",
+      "role": "member"
+    },
+    {
+      "id": "opc-model-architect",
+      "name": "墨方",
+      "role": "member"
+    },
+    {
+      "id": "opc-mvp-designer",
+      "name": "验真",
+      "role": "member"
+    },
+    {
+      "id": "opc-niche-strategist",
+      "name": "林利基",
+      "role": "member"
+    },
+    {
+      "id": "opc-resource-auditor",
+      "name": "顾盘",
+      "role": "member"
+    },
+    {
+      "id": "opc-value-designer",
+      "name": "言之",
+      "role": "member"
+    }
+  ],
+  "agents": [
+    "agents/opc-asset-strategist.md",
+    "agents/opc-conversion-designer.md",
+    "agents/opc-dashboard-reviewer.md",
+    "agents/opc-model-architect.md",
+    "agents/opc-mvp-designer.md",
+    "agents/opc-niche-strategist.md",
+    "agents/opc-resource-auditor.md",
+    "agents/opc-team-lead.md",
+    "agents/opc-value-designer.md"
+  ],
+  "skills": [
+    "skills/opc-asset-ops",
+    "skills/opc-business-model-design",
+    "skills/opc-conversion-loop",
+    "skills/opc-dashboard-review",
+    "skills/opc-mvp-designer",
+    "skills/opc-niche-positioning",
+    "skills/opc-orchestrator",
+    "skills/opc-resource-audit",
+    "skills/opc-value-proposition"
+  ],
+  "quickPrompts": [
+    "我想从零开始规划一个一人公司，帮我启动资源盘点。",
+    "我有个想法但找不到利基，帮我用三环框架梳理一下。",
+    "我的产品在跑但卡住了，帮我做一次系统的经营复盘。"
+  ]
+}

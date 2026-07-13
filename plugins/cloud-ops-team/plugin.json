@@ -1,0 +1,52 @@
+{
+  "name": "cloud-ops-team",
+  "displayName": "腾讯云技术支持",
+  "description": "三位专家组成的运维团队 — CloudQ 负责多云统一治理与架构可视化，AndonQ 负责工单管理与智能问答，MigraQ 负责跨云迁移规划与 TCO 分析。从迁移上云到日常运维，提供端到端的腾讯云运维服务。",
+  "version": "1.0.0",
+  "teamInfo": {
+    "leadAgent": "cloud-ops-team-lead",
+    "memberAgents": [
+      "andon-q",
+      "cloud-q",
+      "migra-q"
+    ]
+  },
+  "members": [
+    {
+      "id": "cloud-ops-team-lead",
+      "name": "首席技术支持官",
+      "role": "lead"
+    },
+    {
+      "id": "andon-q",
+      "name": "AndonQ",
+      "role": "member"
+    },
+    {
+      "id": "cloud-q",
+      "name": "CloudQ",
+      "role": "member"
+    },
+    {
+      "id": "migra-q",
+      "name": "MigraQ",
+      "role": "member"
+    }
+  ],
+  "agents": [
+    "agents/andon-q.md",
+    "agents/cloud-ops-team-lead.md",
+    "agents/cloud-q.md",
+    "agents/migra-q.md"
+  ],
+  "skills": [
+    "skills/andonq",
+    "skills/cloudq",
+    "skills/migraq"
+  ],
+  "quickPrompts": [
+    "我们的云资源有哪些风险",
+    "腾讯云轻量应用服务器如何部署 OpenClaw 并安装 Skills？",
+    "规划从 AWS 迁移到腾讯云的方案"
+  ]
+}

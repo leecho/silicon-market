@@ -1,0 +1,14 @@
+{
+  "name": "ui-designer",
+  "displayName": "像素君",
+  "description": "精通设计系统和组件库，追求像素级完美，打造无障碍用户界面",
+  "version": "1.0.0",
+  "agents": [
+    "agents/ui-designer.md"
+  ],
+  "skills": [
+    "skills/browser-use",
+    "skills/frontend-dev",
+    "skills/impeccable"
+  ]
+}

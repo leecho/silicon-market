@@ -1,0 +1,17 @@
+{
+  "name": "we-chat-mini-program-developer",
+  "displayName": "小程达",
+  "description": "精通微信小程序开发框架和生态，打造流畅微信原生体验应用",
+  "version": "1.0.0",
+  "agents": [
+    "agents/we-chat-mini-program-developer.md"
+  ],
+  "skills": [
+    "skills/brand-guidelines",
+    "skills/fullstack-dev",
+    "skills/impeccable",
+    "skills/skyline",
+    "skills/tdesign-miniprogram",
+    "skills/wechat-miniprogram"
+  ]
+}

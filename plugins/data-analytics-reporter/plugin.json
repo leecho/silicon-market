@@ -1,0 +1,16 @@
+{
+  "name": "data-analytics-reporter",
+  "displayName": "数妙妙",
+  "description": "将复杂数据转化为战略洞察，提供指标诊断、KPI框架设计、数据质量评估与决策报告",
+  "version": "1.0.0",
+  "agents": [
+    "agents/data-analytics-reporter.md"
+  ],
+  "skills": [
+    "skills/analytics-reporting",
+    "skills/data-quality-assessment",
+    "skills/data-visualization",
+    "skills/kpi-design",
+    "skills/metric-diagnostics"
+  ]
+}

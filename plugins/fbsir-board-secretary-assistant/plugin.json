@@ -1,0 +1,12 @@
+{
+  "name": "fbsir-board-secretary-assistant",
+  "displayName": "福帮手",
+  "description": "面向公告、路演、投资者问答、互动回复和沟通稿，在对外使用前做合规红队审查并给出审批下一步。",
+  "version": "1.0.0",
+  "agents": [
+    "agents/fbsir-board-secretary-assistant.md"
+  ],
+  "skills": [
+    "skills/board-secretary-compliance-red-team"
+  ]
+}

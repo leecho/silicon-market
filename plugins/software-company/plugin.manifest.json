@@ -1,0 +1,10 @@
+{
+  "files": [
+    "agents/software-architect.md",
+    "agents/software-engineer.md",
+    "agents/software-product-manager.md",
+    "agents/software-qa-engineer.md",
+    "agents/software-team-lead.md",
+    "plugin.json"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fbsir-industry-scene-researcher",
+  "displayName": "福帮手",
+  "description": "围绕一个行业场景定位关键工作流缺口，并交付补位卡、3天行动计划、项目动作执行包和下一步建议。",
+  "version": "1.0.0",
+  "agents": [
+    "agents/fbsir-industry-scene-researcher.md"
+  ],
+  "skills": [
+    "skills/industry-scene-service-recording"
+  ]
+}

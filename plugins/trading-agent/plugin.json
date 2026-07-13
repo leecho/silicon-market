@@ -1,0 +1,105 @@
+{
+  "name": "trading-agent",
+  "displayName": "交易分析团队",
+  "description": "13位专业角色分5阶段协作完成投资分析：技术面、基本面、新闻面、情绪面数据采集 → 多空辩论 → 交易决策 → 三方风险评估 → 最终报告，输出 BUY/SELL/HOLD 建议及完整操作方案",
+  "version": "1.0.0",
+  "teamInfo": {
+    "leadAgent": "trading-team-lead",
+    "memberAgents": [
+      "aggressive-risk-analyst",
+      "bear-researcher",
+      "bull-researcher",
+      "conservative-risk-analyst",
+      "fundamentals-analyst",
+      "market-analyst",
+      "neutral-risk-analyst",
+      "news-analyst",
+      "research-manager",
+      "risk-manager",
+      "sentiment-analyst",
+      "trader"
+    ]
+  },
+  "members": [
+    {
+      "id": "trading-team-lead",
+      "name": "何执舟",
+      "role": "lead"
+    },
+    {
+      "id": "aggressive-risk-analyst",
+      "name": "甘为先",
+      "role": "member"
+    },
+    {
+      "id": "bear-researcher",
+      "name": "熊正寒",
+      "role": "member"
+    },
+    {
+      "id": "bull-researcher",
+      "name": "牛正阳",
+      "role": "member"
+    },
+    {
+      "id": "conservative-risk-analyst",
+      "name": "沈行远",
+      "role": "member"
+    },
+    {
+      "id": "fundamentals-analyst",
+      "name": "季本实",
+      "role": "member"
+    },
+    {
+      "id": "market-analyst",
+      "name": "涂一线",
+      "role": "member"
+    },
+    {
+      "id": "neutral-risk-analyst",
+      "name": "钟允平",
+      "role": "member"
+    },
+    {
+      "id": "news-analyst",
+      "name": "闻一新",
+      "role": "member"
+    },
+    {
+      "id": "research-manager",
+      "name": "蔡定锋",
+      "role": "member"
+    },
+    {
+      "id": "risk-manager",
+      "name": "严控风",
+      "role": "member"
+    },
+    {
+      "id": "sentiment-analyst",
+      "name": "莫慌言",
+      "role": "member"
+    },
+    {
+      "id": "trader",
+      "name": "程交远",
+      "role": "member"
+    }
+  ],
+  "agents": [
+    "agents/aggressive-risk-analyst.md",
+    "agents/bear-researcher.md",
+    "agents/bull-researcher.md",
+    "agents/conservative-risk-analyst.md",
+    "agents/fundamentals-analyst.md",
+    "agents/market-analyst.md",
+    "agents/neutral-risk-analyst.md",
+    "agents/news-analyst.md",
+    "agents/research-manager.md",
+    "agents/risk-manager.md",
+    "agents/sentiment-analyst.md",
+    "agents/trader.md",
+    "agents/trading-team-lead.md"
+  ]
+}

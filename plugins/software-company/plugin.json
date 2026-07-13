@@ -1,0 +1,49 @@
+{
+  "name": "software-company",
+  "displayName": "软件开发团队",
+  "description": "Software Development Team - Optimized multi-agent SOP workflow for fast software delivery",
+  "version": "1.0.0",
+  "teamInfo": {
+    "leadAgent": "software-team-lead",
+    "memberAgents": [
+      "software-architect",
+      "software-engineer",
+      "software-product-manager",
+      "software-qa-engineer"
+    ]
+  },
+  "members": [
+    {
+      "id": "software-team-lead",
+      "name": "齐活林",
+      "role": "lead"
+    },
+    {
+      "id": "software-architect",
+      "name": "高见远",
+      "role": "member"
+    },
+    {
+      "id": "software-engineer",
+      "name": "寇豆码",
+      "role": "member"
+    },
+    {
+      "id": "software-product-manager",
+      "name": "许清楚",
+      "role": "member"
+    },
+    {
+      "id": "software-qa-engineer",
+      "name": "严过关",
+      "role": "member"
+    }
+  ],
+  "agents": [
+    "agents/software-architect.md",
+    "agents/software-engineer.md",
+    "agents/software-product-manager.md",
+    "agents/software-qa-engineer.md",
+    "agents/software-team-lead.md"
+  ]
+}
