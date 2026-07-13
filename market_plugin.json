@@ -1,0 +1,261 @@
+[
+  {
+    "name": "ai-content-creator-team",
+    "displayName": "内容创作专家团",
+    "version": "1.0.0",
+    "description": "AI驱动的多模态内容生产团队，从创意策划到成品交付全覆盖，涵盖品牌定位、情绪板、广告方向、文案创作、视频生成、图片设计、精修合成和素材改编。",
+    "provides": {
+      "agents": 7,
+      "skills": 1,
+      "team": true
+    }
+  },
+  {
+    "name": "ai-engineer",
+    "displayName": "深网网",
+    "version": "1.0.0",
+    "description": "精通ML模型开发部署优化的全栈AI工程师，将AI从论文带到生产环境",
+    "provides": {
+      "agents": 1,
+      "skills": 4
+    }
+  },
+  {
+    "name": "aihot",
+    "displayName": "数字生命卡兹克",
+    "version": "1.0.0",
+    "description": "一句话查到每天精选的 AI 模型/产品/行业/论文动态，自动整理成中文简报，免配置免登录。",
+    "provides": {
+      "agents": 1,
+      "skills": 1
+    }
+  },
+  {
+    "name": "chuangye-manor",
+    "displayName": "林正刚",
+    "version": "1.0.0",
+    "description": "创业庄园的24小时灯塔，基于林正刚老师50年企业管理经验框架，帮助OPC创业者把选择做对、顺序做对、行为做对。擅长GTM策略、客户定位、销售阶段管理。",
+    "provides": {
+      "agents": 1,
+      "skills": 7
+    }
+  },
+  {
+    "name": "cloud-ops-team",
+    "displayName": "腾讯云技术支持",
+    "version": "1.0.0",
+    "description": "三位专家组成的运维团队 — CloudQ 负责多云统一治理与架构可视化，AndonQ 负责工单管理与智能问答，MigraQ 负责跨云迁移规划与 TCO 分析。从迁移上云到日常运维，提供端到端的腾讯云运维服务。",
+    "provides": {
+      "agents": 4,
+      "skills": 3,
+      "team": true
+    }
+  },
+  {
+    "name": "content-creator",
+    "displayName": "文爆爆",
+    "version": "1.0.0",
+    "description": "擅长创作引人入胜的多平台内容，让品牌故事触达目标受众",
+    "provides": {
+      "agents": 1,
+      "skills": 5
+    }
+  },
+  {
+    "name": "data-analytics-reporter",
+    "displayName": "数妙妙",
+    "version": "1.0.0",
+    "description": "将复杂数据转化为战略洞察，提供指标诊断、KPI框架设计、数据质量评估与决策报告",
+    "provides": {
+      "agents": 1,
+      "skills": 5
+    }
+  },
+  {
+    "name": "equity-research",
+    "displayName": "研股股",
+    "version": "1.0.0",
+    "description": "Comprehensive equity research toolkit: earnings analysis, initiating coverage, DCF/comps valuation, long-short pitches, investment memos, event-driven analysis, portfolio risk management, and full research workflows",
+    "provides": {
+      "agents": 1,
+      "skills": 16
+    }
+  },
+  {
+    "name": "fbsir-board-secretary-assistant",
+    "displayName": "福帮手",
+    "version": "1.0.0",
+    "description": "面向公告、路演、投资者问答、互动回复和沟通稿，在对外使用前做合规红队审查并给出审批下一步。",
+    "provides": {
+      "agents": 1,
+      "skills": 1
+    }
+  },
+  {
+    "name": "fbsir-industry-scene-researcher",
+    "displayName": "福帮手",
+    "version": "1.0.0",
+    "description": "围绕一个行业场景定位关键工作流缺口，并交付补位卡、3天行动计划、项目动作执行包和下一步建议。",
+    "provides": {
+      "agents": 1,
+      "skills": 1
+    }
+  },
+  {
+    "name": "fbsir-super-partner-group",
+    "displayName": "超级合伙人",
+    "version": "1.0.0",
+    "description": "面向企业家和创业者的虚拟合伙人团队，先判断公司下一步，再给出可执行、可复盘的结果卡。",
+    "provides": {
+      "agents": 5,
+      "skills": 1,
+      "team": true
+    }
+  },
+  {
+    "name": "frontend-developer",
+    "displayName": "像素匠",
+    "version": "1.0.0",
+    "description": "精通现代Web技术和主流框架，以像素级精度构建响应式高性能Web应用",
+    "provides": {
+      "agents": 1,
+      "skills": 6
+    }
+  },
+  {
+    "name": "game-designer",
+    "displayName": "玩法师",
+    "version": "1.0.0",
+    "description": "精通游戏系统和机制设计，用循环杠杆和心理构建玩法",
+    "provides": {
+      "agents": 1,
+      "skills": 4
+    }
+  },
+  {
+    "name": "gaokao-advisor",
+    "displayName": "专业高考顾问",
+    "version": "1.0.0",
+    "description": "辅助检索高考真题、高考作文、全国高校与专业信息，并调用批次线、一分一段能力；同时提供全流程志愿填报引导，产出可转发的腾讯文档志愿报告",
+    "provides": {
+      "agents": 1,
+      "skills": 4
+    }
+  },
+  {
+    "name": "gpt-researcher-team",
+    "displayName": "深度研究团队",
+    "version": "1.0.0",
+    "description": "7 位专业角色分 5 阶段协作完成深度研究：初始调研 → 规划大纲 → 逐章深度研究（审稿修订循环）→ 撰写报告框架 → 发布输出。支持完整 / 快速 / 单章三种模式。适用于行业研究、竞品分析、技术综述、学术文献综述等场景，产出带多源超链接引用的专业研究报告。",
+    "provides": {
+      "agents": 7,
+      "skills": 0,
+      "team": true
+    }
+  },
+  {
+    "name": "opc-team",
+    "displayName": "一人公司专家团",
+    "version": "1.0.0",
+    "description": "基于由Easy创作的《一人企业方法论》，9位专家陪你走完从资源盘点、利基定位到MVP、转化、复盘的一人公司全流程共创",
+    "provides": {
+      "agents": 9,
+      "skills": 9,
+      "team": true
+    }
+  },
+  {
+    "name": "product-strategy-team",
+    "displayName": "产品战略团队",
+    "version": "1.0.0",
+    "description": "由产品总监领导的 5 人产品专家团队：需求分析师（PRD/功能规格书）、用户研究员（调研综合分析）、竞品分析师（竞争情报）、数据分析师（指标追踪）和路线图规划师（路线图管理/迭代规划）。覆盖从构思到上线的完整产品生命周期。",
+    "provides": {
+      "agents": 6,
+      "skills": 0,
+      "team": true
+    }
+  },
+  {
+    "name": "sales-coach",
+    "displayName": "单必成",
+    "version": "1.0.0",
+    "description": "全栈销售教练：从能力培养到实战执行——会议准备、交易策略、商业案例、竞品分析、通话复盘，用苏格拉底式提问驱动",
+    "provides": {
+      "agents": 1,
+      "skills": 6
+    }
+  },
+  {
+    "name": "senior-developer",
+    "displayName": "吴八哥",
+    "version": "1.0.0",
+    "description": "10年以上全栈经验，精通多种语言和框架，是团队的技术中坚",
+    "provides": {
+      "agents": 1,
+      "skills": 4
+    }
+  },
+  {
+    "name": "software-company",
+    "displayName": "软件开发团队",
+    "version": "1.0.0",
+    "description": "Software Development Team - Optimized multi-agent SOP workflow for fast software delivery",
+    "provides": {
+      "agents": 5,
+      "skills": 0,
+      "team": true
+    }
+  },
+  {
+    "name": "stock-partner-team",
+    "displayName": "腾讯自选股股票投研专家团",
+    "version": "1.0.0",
+    "description": "蒸馏了六位真实的炒股大神的实战经验，涵盖产业策略、信号捕捉、估值评估、抄底布局、基本面研究、短线交易六大视角，基于真实数据各抒己见，提供多角度分析参考。",
+    "provides": {
+      "agents": 7,
+      "skills": 3,
+      "team": true
+    }
+  },
+  {
+    "name": "trading-agent",
+    "displayName": "交易分析团队",
+    "version": "1.0.0",
+    "description": "13位专业角色分5阶段协作完成投资分析：技术面、基本面、新闻面、情绪面数据采集 → 多空辩论 → 交易决策 → 三方风险评估 → 最终报告，输出 BUY/SELL/HOLD 建议及完整操作方案",
+    "provides": {
+      "agents": 13,
+      "skills": 0,
+      "team": true
+    }
+  },
+  {
+    "name": "ui-designer",
+    "displayName": "像素君",
+    "version": "1.0.0",
+    "description": "精通设计系统和组件库，追求像素级完美，打造无障碍用户界面",
+    "provides": {
+      "agents": 1,
+      "skills": 3
+    }
+  },
+  {
+    "name": "we-chat-mini-program-developer",
+    "displayName": "小程达",
+    "version": "1.0.0",
+    "description": "精通微信小程序开发框架和生态，打造流畅微信原生体验应用",
+    "provides": {
+      "agents": 1,
+      "skills": 6
+    }
+  },
+  {
+    "name": "xiaohongshu-operations-expert",
+    "displayName": "种草草",
+    "version": "1.0.0",
+    "description": "深谙小红书种草生态和推荐机制，打造高互动率种草内容",
+    "provides": {
+      "agents": 1,
+      "skills": 4
+    }
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "chuangye-manor",
+  "displayName": "林正刚",
+  "description": "创业庄园的24小时灯塔，基于林正刚老师50年企业管理经验框架，帮助OPC创业者把选择做对、顺序做对、行为做对。擅长GTM策略、客户定位、销售阶段管理。",
+  "version": "1.0.0",
+  "agents": [
+    "agents/chuangye-manor.md"
+  ],
+  "skills": [
+    "skills/knowledge-business",
+    "skills/knowledge-growth",
+    "skills/knowledge-gtm",
+    "skills/knowledge-org",
+    "skills/knowledge-sequence",
+    "skills/manor-host",
+    "skills/manor-judge"
+  ]
+}

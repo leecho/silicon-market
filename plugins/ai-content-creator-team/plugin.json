@@ -1,0 +1,71 @@
+{
+  "name": "ai-content-creator-team",
+  "displayName": "内容创作专家团",
+  "description": "AI驱动的多模态内容生产团队，从创意策划到成品交付全覆盖，涵盖品牌定位、情绪板、广告方向、文案创作、视频生成、图片设计、精修合成和素材改编。",
+  "version": "1.0.0",
+  "teamInfo": {
+    "leadAgent": "ai-content-creator-team-lead",
+    "memberAgents": [
+      "content-adapter",
+      "copywriter",
+      "creative-strategist",
+      "image-creator",
+      "video-editor",
+      "video-generator"
+    ]
+  },
+  "members": [
+    {
+      "id": "ai-content-creator-team-lead",
+      "name": "司远",
+      "role": "lead"
+    },
+    {
+      "id": "content-adapter",
+      "name": "艾达",
+      "role": "member"
+    },
+    {
+      "id": "copywriter",
+      "name": "笔澜",
+      "role": "member"
+    },
+    {
+      "id": "creative-strategist",
+      "name": "策凌",
+      "role": "member"
+    },
+    {
+      "id": "image-creator",
+      "name": "珀西",
+      "role": "member"
+    },
+    {
+      "id": "video-editor",
+      "name": "柯立",
+      "role": "member"
+    },
+    {
+      "id": "video-generator",
+      "name": "维欧",
+      "role": "member"
+    }
+  ],
+  "agents": [
+    "agents/ai-content-creator-team-lead.md",
+    "agents/content-adapter.md",
+    "agents/copywriter.md",
+    "agents/creative-strategist.md",
+    "agents/image-creator.md",
+    "agents/video-editor.md",
+    "agents/video-generator.md"
+  ],
+  "skills": [
+    "skills/ai-content-production"
+  ],
+  "quickPrompts": [
+    "帮我确定新产品的品牌视觉方向，做一个情绪板",
+    "帮我用 AI 生成一段 15 秒的产品宣传短视频",
+    "为我的新品上市生成一组小红书风格的种草图文，包含配图和文案"
+  ]
+}

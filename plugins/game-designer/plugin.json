@@ -1,0 +1,15 @@
+{
+  "name": "game-designer",
+  "displayName": "玩法师",
+  "description": "精通游戏系统和机制设计，用循环杠杆和心理构建玩法",
+  "version": "1.0.0",
+  "agents": [
+    "agents/game-designer.md"
+  ],
+  "skills": [
+    "skills/android-native-dev",
+    "skills/anti-distill",
+    "skills/impeccable",
+    "skills/wechat-miniprogram"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "files": [
+    "agents/competitive-analyst.md",
+    "agents/data-analyst.md",
+    "agents/product-director.md",
+    "agents/requirement-analyst.md",
+    "agents/roadmap-planner.md",
+    "agents/user-researcher.md",
+    "plugin.json"
+  ]
+}

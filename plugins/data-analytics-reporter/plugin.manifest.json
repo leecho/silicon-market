@@ -1,0 +1,11 @@
+{
+  "files": [
+    "agents/data-analytics-reporter.md",
+    "plugin.json",
+    "skills/analytics-reporting/SKILL.md",
+    "skills/data-quality-assessment/SKILL.md",
+    "skills/data-visualization/SKILL.md",
+    "skills/kpi-design/SKILL.md",
+    "skills/metric-diagnostics/SKILL.md"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "xiaohongshu-operations-expert",
+  "displayName": "种草草",
+  "description": "深谙小红书种草生态和推荐机制，打造高互动率种草内容",
+  "version": "1.0.0",
+  "agents": [
+    "agents/xiaohongshu-operations-expert.md"
+  ],
+  "skills": [
+    "skills/anti-distill",
+    "skills/humanizer",
+    "skills/marketing-skills",
+    "skills/xiaohongshu"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "equity-research",
+  "displayName": "研股股",
+  "description": "Comprehensive equity research toolkit: earnings analysis, initiating coverage, DCF/comps valuation, long-short pitches, investment memos, event-driven analysis, portfolio risk management, and full research workflows",
+  "version": "1.0.0",
+  "agents": [
+    "agents/equity-research.md"
+  ],
+  "skills": [
+    "skills/catalyst-calendar",
+    "skills/company-tearsheet",
+    "skills/comps-valuation",
+    "skills/dcf-model-builder",
+    "skills/earnings-analysis",
+    "skills/earnings-preview",
+    "skills/event-scenario-analyzer",
+    "skills/idea-generation",
+    "skills/initiating-coverage",
+    "skills/long-short-pitch",
+    "skills/memo-builder",
+    "skills/model-update",
+    "skills/morning-note",
+    "skills/portfolio-risk",
+    "skills/sector-overview",
+    "skills/thesis-tracker"
+  ]
+}

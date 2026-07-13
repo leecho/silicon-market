@@ -1,0 +1,30 @@
+{
+  "files": [
+    "agents/andon-q.md",
+    "agents/cloud-ops-team-lead.md",
+    "agents/cloud-q.md",
+    "agents/migra-q.md",
+    "plugin.json",
+    "skills/andonq/SKILL.md",
+    "skills/andonq/references/api/ChatCompletionsAndonQ.md",
+    "skills/andonq/scripts/__init__.py",
+    "skills/andonq/scripts/andon_auth.py",
+    "skills/andonq/scripts/andon_sse_api.py",
+    "skills/andonq/scripts/check_env.py",
+    "skills/cloudq/SKILL.md",
+    "skills/cloudq/references/api/CloudQChatCompletions.md",
+    "skills/cloudq/scripts/check_env.py",
+    "skills/cloudq/scripts/cleanup.py",
+    "skills/cloudq/scripts/create_role.py",
+    "skills/cloudq/scripts/credential_manager.py",
+    "skills/cloudq/scripts/login.py",
+    "skills/cloudq/scripts/login_url.py",
+    "skills/cloudq/scripts/logout.py",
+    "skills/cloudq/scripts/tcloud_api.py",
+    "skills/cloudq/scripts/tcloud_sse_api.py",
+    "skills/migraq/SKILL.md",
+    "skills/migraq/references/api/MigraQChatCompletions.md",
+    "skills/migraq/scripts/check_env.py",
+    "skills/migraq/scripts/migrateq_sse_api.py"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "sales-coach",
+  "displayName": "单必成",
+  "description": "全栈销售教练：从能力培养到实战执行——会议准备、交易策略、商业案例、竞品分析、通话复盘，用苏格拉底式提问驱动",
+  "version": "1.0.0",
+  "agents": [
+    "agents/sales-coach.md"
+  ],
+  "skills": [
+    "skills/anti-distill",
+    "skills/business-case",
+    "skills/call-debrief",
+    "skills/competitive-brief",
+    "skills/deal-strategy",
+    "skills/prepare-meeting"
+  ]
+}

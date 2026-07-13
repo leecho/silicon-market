@@ -1,0 +1,15 @@
+{
+  "name": "gaokao-advisor",
+  "displayName": "专业高考顾问",
+  "description": "辅助检索高考真题、高考作文、全国高校与专业信息，并调用批次线、一分一段能力；同时提供全流程志愿填报引导，产出可转发的腾讯文档志愿报告",
+  "version": "1.0.0",
+  "agents": [
+    "agents/gaokao-advisor.md"
+  ],
+  "skills": [
+    "skills/gaokao-search",
+    "skills/gaokao-zhiyuan-assistant",
+    "skills/tencent-yuanbao-gaokao-regional-passing-scores",
+    "skills/tencent-yuanbao-gaokao-score-to-rank-lookup"
+  ]
+}

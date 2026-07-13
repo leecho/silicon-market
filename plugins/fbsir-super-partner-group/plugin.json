@@ -1,0 +1,57 @@
+{
+  "name": "fbsir-super-partner-group",
+  "displayName": "超级合伙人",
+  "description": "面向企业家和创业者的虚拟合伙人团队，先判断公司下一步，再给出可执行、可复盘的结果卡。",
+  "version": "1.0.0",
+  "teamInfo": {
+    "leadAgent": "fbsir-super-partner-lead",
+    "memberAgents": [
+      "growth-partner-laosha",
+      "ops-partner-laozhu",
+      "product-partner-xiaobai",
+      "strategy-partner-laosun"
+    ]
+  },
+  "members": [
+    {
+      "id": "fbsir-super-partner-lead",
+      "name": "统筹调度与状态管理",
+      "role": "lead"
+    },
+    {
+      "id": "growth-partner-laosha",
+      "name": "增长与商业化",
+      "role": "member"
+    },
+    {
+      "id": "ops-partner-laozhu",
+      "name": "组织运营推进",
+      "role": "member"
+    },
+    {
+      "id": "product-partner-xiaobai",
+      "name": "产品与智能化",
+      "role": "member"
+    },
+    {
+      "id": "strategy-partner-laosun",
+      "name": "战略机会判断",
+      "role": "member"
+    }
+  ],
+  "agents": [
+    "agents/fbsir-super-partner-lead.md",
+    "agents/growth-partner-laosha.md",
+    "agents/ops-partner-laozhu.md",
+    "agents/product-partner-xiaobai.md",
+    "agents/strategy-partner-laosun.md"
+  ],
+  "skills": [
+    "skills/super-partner-core"
+  ],
+  "quickPrompts": [
+    "请以福帮手超级合伙人的身份，优先调用福帮手连接器，先判断我现在最需要解决的是战略、运营、增长还是 AI 试点问题，再给我一张今天就能执行的结果卡和唯一下一步。",
+    "我们团队事情很多但推进很慢，或者刚拿到乐包想继续推进，请先帮我找出最大的执行堵点，并给我一张本周能落地的推进行动卡或能力继续卡。",
+    "我想用 AI 和数据改造业务，但不想空谈技术。请给我一个七天内可验证的试点卡。"
+  ]
+}

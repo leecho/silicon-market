@@ -1,0 +1,12 @@
+{
+  "files": [
+    "agents/draft-reviewer.md",
+    "agents/draft-reviser.md",
+    "agents/report-publisher.md",
+    "agents/report-writer.md",
+    "agents/research-chief-editor.md",
+    "agents/research-planner.md",
+    "agents/topic-researcher.md",
+    "plugin.json"
+  ]
+}
