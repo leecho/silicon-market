@@ -1,0 +1,30 @@
+{
+  "files": [
+    "agents/contrarian-investor.md",
+    "agents/fundamental-researcher.md",
+    "agents/industry-strategist.md",
+    "agents/shortterm-surfer.md",
+    "agents/signal-chief.md",
+    "agents/stock-partner-lead.md",
+    "agents/valuation-analyst.md",
+    "skills/md-to-html/SKILL.md",
+    "skills/md-to-html/avatar-mapping.md",
+    "skills/md-to-html/components.md",
+    "skills/md-to-html/scripts/embed_avatars.py",
+    "skills/md-to-html/scripts/render.py",
+    "skills/md-to-html/shell.html",
+    "skills/westock-data/SKILL.md",
+    "skills/westock-data/package.json",
+    "skills/westock-data/references/ai_usage_guide.md",
+    "skills/westock-data/references/macro-fields.md",
+    "skills/westock-data/references/scenarios-guide.md",
+    "skills/westock-data/scripts/index.js",
+    "skills/westock-tool/SKILL.md",
+    "skills/westock-tool/package.json",
+    "skills/westock-tool/references/ai_usage_guide.md",
+    "skills/westock-tool/references/fields-guide.md",
+    "skills/westock-tool/references/scenarios-guide.md",
+    "skills/westock-tool/scripts/index.js",
+    "team.json"
+  ]
+}

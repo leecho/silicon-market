@@ -1,0 +1,101 @@
+[
+  {
+    "name": "ai-content-creator-team",
+    "displayName": "内容创作专家团",
+    "version": "1.0.0",
+    "description": "AI驱动的多模态内容生产团队，从创意策划到成品交付全覆盖，涵盖品牌定位、情绪板、广告方向、文案创作、视频生成、图片设计、精修合成和素材改编。",
+    "provides": {
+      "agents": 7,
+      "skills": 1,
+      "team": true
+    }
+  },
+  {
+    "name": "cloud-ops-team",
+    "displayName": "腾讯云技术支持",
+    "version": "1.0.0",
+    "description": "三位专家组成的运维团队 — CloudQ 负责多云统一治理与架构可视化，AndonQ 负责工单管理与智能问答，MigraQ 负责跨云迁移规划与 TCO 分析。从迁移上云到日常运维，提供端到端的腾讯云运维服务。",
+    "provides": {
+      "agents": 4,
+      "skills": 3,
+      "team": true
+    }
+  },
+  {
+    "name": "fbsir-super-partner-group",
+    "displayName": "超级合伙人",
+    "version": "1.0.0",
+    "description": "面向企业家和创业者的虚拟合伙人团队，先判断公司下一步，再给出可执行、可复盘的结果卡。",
+    "provides": {
+      "agents": 5,
+      "skills": 1,
+      "team": true
+    }
+  },
+  {
+    "name": "gpt-researcher-team",
+    "displayName": "深度研究团队",
+    "version": "1.0.0",
+    "description": "7 位专业角色分 5 阶段协作完成深度研究：初始调研 → 规划大纲 → 逐章深度研究（审稿修订循环）→ 撰写报告框架 → 发布输出。支持完整 / 快速 / 单章三种模式。适用于行业研究、竞品分析、技术综述、学术文献综述等场景，产出带多源超链接引用的专业研究报告。",
+    "provides": {
+      "agents": 7,
+      "skills": 0,
+      "team": true
+    }
+  },
+  {
+    "name": "opc-team",
+    "displayName": "一人公司专家团",
+    "version": "1.0.0",
+    "description": "基于由Easy创作的《一人企业方法论》，9位专家陪你走完从资源盘点、利基定位到MVP、转化、复盘的一人公司全流程共创",
+    "provides": {
+      "agents": 9,
+      "skills": 9,
+      "team": true
+    }
+  },
+  {
+    "name": "product-strategy-team",
+    "displayName": "产品战略团队",
+    "version": "1.0.0",
+    "description": "由产品总监领导的 5 人产品专家团队：需求分析师（PRD/功能规格书）、用户研究员（调研综合分析）、竞品分析师（竞争情报）、数据分析师（指标追踪）和路线图规划师（路线图管理/迭代规划）。覆盖从构思到上线的完整产品生命周期。",
+    "provides": {
+      "agents": 6,
+      "skills": 0,
+      "team": true
+    }
+  },
+  {
+    "name": "software-company",
+    "displayName": "软件开发团队",
+    "version": "1.0.0",
+    "description": "Software Development Team - Optimized multi-agent SOP workflow for fast software delivery",
+    "provides": {
+      "agents": 5,
+      "skills": 0,
+      "team": true
+    }
+  },
+  {
+    "name": "stock-partner-team",
+    "displayName": "腾讯自选股股票投研专家团",
+    "version": "1.0.0",
+    "description": "蒸馏了六位真实的炒股大神的实战经验，涵盖产业策略、信号捕捉、估值评估、抄底布局、基本面研究、短线交易六大视角，基于真实数据各抒己见，提供多角度分析参考。",
+    "provides": {
+      "agents": 7,
+      "skills": 3,
+      "team": true
+    }
+  },
+  {
+    "name": "trading-agent",
+    "displayName": "交易分析团队",
+    "version": "1.0.0",
+    "description": "13位专业角色分5阶段协作完成投资分析：技术面、基本面、新闻面、情绪面数据采集 → 多空辩论 → 交易决策 → 三方风险评估 → 最终报告，输出 BUY/SELL/HOLD 建议及完整操作方案",
+    "provides": {
+      "agents": 13,
+      "skills": 0,
+      "team": true
+    }
+  }
+]

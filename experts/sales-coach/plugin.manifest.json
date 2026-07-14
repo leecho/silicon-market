@@ -1,0 +1,17 @@
+{
+  "files": [
+    "agents/sales-coach.md",
+    "expert.json",
+    "skills/anti-distill/SKILL.md",
+    "skills/anti-distill/examples/zhangsan_before_after.md",
+    "skills/anti-distill/prompts/classifier.md",
+    "skills/anti-distill/prompts/diluter_general.md",
+    "skills/anti-distill/prompts/diluter_persona.md",
+    "skills/anti-distill/prompts/diluter_work.md",
+    "skills/business-case/SKILL.md",
+    "skills/call-debrief/SKILL.md",
+    "skills/competitive-brief/SKILL.md",
+    "skills/deal-strategy/SKILL.md",
+    "skills/prepare-meeting/SKILL.md"
+  ]
+}

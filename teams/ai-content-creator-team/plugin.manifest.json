@@ -1,0 +1,19 @@
+{
+  "files": [
+    "agents/ai-content-creator-team-lead.md",
+    "agents/content-adapter.md",
+    "agents/copywriter.md",
+    "agents/creative-strategist.md",
+    "agents/image-creator.md",
+    "agents/video-editor.md",
+    "agents/video-generator.md",
+    "skills/ai-content-production/SKILL.md",
+    "skills/ai-content-production/references/content-adaptation-guide.md",
+    "skills/ai-content-production/references/creative-strategy-guide.md",
+    "skills/ai-content-production/references/generative-polish-guide.md",
+    "skills/ai-content-production/references/image-generation-guide.md",
+    "skills/ai-content-production/references/video-editing-specs.md",
+    "skills/ai-content-production/references/video-generation-guide.md",
+    "team.json"
+  ]
+}

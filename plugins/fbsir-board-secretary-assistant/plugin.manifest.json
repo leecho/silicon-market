@@ -1,9 +1,0 @@
-{
-  "files": [
-    "agents/fbsir-board-secretary-assistant.md",
-    "plugin.json",
-    "skills/board-secretary-compliance-red-team/SKILL.md",
-    "skills/board-secretary-compliance-red-team/SKILL.storefront.md",
-    "skills/board-secretary-compliance-red-team/skill.yaml"
-  ]
-}

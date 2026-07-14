@@ -1,8 +1,9 @@
 {
   "name": "silicon-official-market",
   "version": 4,
-  "updatedAt": "2026-07-13",
+  "updatedAt": "2026-07-14",
   "shelves": {
-    "plugin": "market_plugin.json"
+    "expert": "market_expert.json",
+    "team": "market_team.json"
   }
 }
